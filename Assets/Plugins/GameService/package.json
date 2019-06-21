@@ -6,6 +6,6 @@
   "description": "Game service",
   "dependencies": {
     "com.neuecc.unirx": "6.2.2",
-    "io.ambidexter.extensions": "https://github.com/ambidexter-unity/Extensions.git#1.0.0"
+    "io.ambidexter.gametask": "https://github.com/ambidexter-unity/GameTask.git#1.0.0"
   }
 }
